@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsonexice.github.io/sitemap.html.gz
+Sitemap: https://nsonexice.github.io/app/sitemap.html.gz
+Sitemap: https://nsonexice.github.io/assets/sitemap.html.gz
+Sitemap: https://nsonexice.github.io/css/sitemap.html.gz
+Sitemap: https://nsonexice.github.io/includes/sitemap.html.gz
+Sitemap: https://nsonexice.github.io/item/sitemap.html.gz
+Sitemap: https://nsonexice.github.io/src/sitemap.html.gz
